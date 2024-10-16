@@ -1,6 +1,8 @@
 <h1 align="center">Hola, soy Camila Sánchez</h1>
 <h3 align="center">Estudiante de Ingeniería en Energía Renovable y Desarrolladora de Software Full Stack. Estoy en constante creación de habilidades para contribuir a los avances tecnológicos que se presentan día a día. Me destaco por ser proactiva, organizada y constante en las actividades que realizo.</h3>
 
+- 📫 Contacto **camila.sanchez.p@utec.edu.uy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/camila-sanchez-perera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camila-sanchez-perera/" height="30" width="40" /></a>
