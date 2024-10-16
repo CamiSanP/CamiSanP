@@ -1,7 +1,9 @@
-<h1 align="center">Hola, soy Camila Sánchez</h1>
+<h1 align="center">Holis, soy Camila Sánchez</h1>
 <h3 align="center">Estudiante de Ingeniería en Energía Renovable y Desarrolladora de Software Full Stack.</h3>
 
-- 🌱 Entusiasmo por las Energías Renovables y las Tecnologías **...**
+- 🌱 Entusiasmo por la Energías Renovables y las Tecnologías **...**
+
+- 🤝 Me gusta ser proactiva, organizada y constante en las actividades que realizo. **.**
 
 - 📫 Contacto **camila.sanchez.p@utec.edu.uy**
 
