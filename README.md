@@ -4,9 +4,9 @@
   <img src="https://i.pinimg.com/originals/fd/f7/b5/fdf7b5fa4b96f3f5d8bf72bacab0f7c9.gif" alt="GIF centrado" />
 </p>
 
-<h3 align="center">Estudiante de Ingeniería en EnergíaS RenovableS y Desarrolladora de Software Full Stack.</h3>
+<h3 align="center">Estudiante de Ingeniería en Energías Renovables y Desarrolladora de Software Full Stack.</h3>
 
-- 🌱 Entusiasmo por la Energías Renovables y las Tecnologías **...**
+- 🌱 Entusiasmo por las Energías Renovables y las Tecnologías **...**
 
 - 🤝 Me gusta ser proactiva, organizada y constante en las actividades que realizo. **.**
 
