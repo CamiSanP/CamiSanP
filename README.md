@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camisanp&show_icons=true&locale=en" alt="camisanp" /></p>
 
-![Texto alternativo](https://i.pinimg.com/originals/fd/f7/b5/fdf7b5fa4b96f3f5d8bf72bacab0f7c9.gif)
+![](https://i.pinimg.com/originals/fd/f7/b5/fdf7b5fa4b96f3f5d8bf72bacab0f7c9.gif)
