@@ -1,5 +1,6 @@
 <h1 align="center">Holis, soy Camila Sánchez</h1>
-![fdf7b5fa4b96f3f5d8bf72bacab0f7c9](https://github.com/user-attachments/assets/3953c862-9251-4eac-b181-a0adaa792de5)
+![Mi GIF]([https://github.com/tu-usuario/tu-repositorio/ruta-del-gif.gif](https://i.pinimg.com/originals/fd/f7/b5/fdf7b5fa4b96f3f5d8bf72bacab0f7c9.gif))
+
 
 <h3 align="center">Estudiante de Ingeniería en Energía Renovable y Desarrolladora de Software Full Stack.</h3>
 
