@@ -1,6 +1,4 @@
 <h1 align="center">Holis, soy Camila Sánchez</h1>
-![GIF de ejemplo](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
-
 
 <h3 align="center">Estudiante de Ingeniería en Energía Renovable y Desarrolladora de Software Full Stack.</h3>
 
